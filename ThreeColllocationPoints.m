@@ -1,4 +1,4 @@
-% Collocation Method with Three Collocation Point
+% Collocation Method with Three Collocation Points
 clc;
 clear;
 syms x c1 c2 c3 A ;
