@@ -1,4 +1,4 @@
-% Collocation Method with Two Collocation Point
+% Collocation Method with Two Collocation Points
 clc;
 clear;
 syms x c1 c2 A ;
